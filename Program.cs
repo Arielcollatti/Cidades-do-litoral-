@@ -2,8 +2,8 @@
 Console.WriteLine("");
 
 Console.WriteLine("Peruíbe");
-Console.WriteLine("Iaanhaém");
-Console.WriteLine("Ilha Compria");
+Console.WriteLine("Itanhaém");
+Console.WriteLine("Ilha Comprida");
 Console.WriteLine("Iguape");
 Console.WriteLine("Mongaguá");
 Console.WriteLine("Cananéia");
